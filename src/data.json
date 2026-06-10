@@ -10,28 +10,28 @@
         "id": 2,
         "prodName": "Máy tính bảng Samsung Galaxy Tab 59",
         "prodCategory": "Điện thoại",
-        "prodPrice": 24990000,
+        "prodPrice": 18500000,
         "prodStatus": "Còn hàng"
     },
     {
         "id": 3,
         "prodName": " Chuột Logitech MX Master 35",
         "prodCategory": "Phụ kiện",
-        "prodPrice":  24900000,
+        "prodPrice":  2490000,
         "prodStatus": "Hết hàng"
     },
     {
         "id": 4,
-        "prodName": "Điện thoại iphone 15",
-        "prodCategory": "Điện thoại",
-        "prodPrice": 24990000,
+        "prodName": " Máy tính xách tay Macbook Air M3",
+        "prodCategory": "Latop",
+        "prodPrice":  31990000,
         "prodStatus": "Còn hàng"
     },
     {
         "id": 5,
-        "prodName": "Điện thoại iphone 15",
-        "prodCategory": "Điện thoại",
-        "prodPrice": 24990000,
+        "prodName": "Tai nghe Sony WH-1000XM5",
+        "prodCategory": "Tai nghe",
+        "prodPrice": 7990000,
         "prodStatus": "Còn hàng"
     }
 ]
