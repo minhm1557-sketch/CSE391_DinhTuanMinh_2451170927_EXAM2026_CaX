@@ -4,34 +4,34 @@
         "prodName": "Điện thoại iphone 15",
         "prodCategory": "Điện thoại",
         "prodPrice": 24990000,
-        "prodStaatus": "Còn hàng"
+        "prodStatus": "Còn hàng"
     },
     {
         "id": 2,
-        "prodName": "Điện thoại iphone 15",
+        "prodName": "Máy tính bảng Samsung Galaxy Tab 59",
         "prodCategory": "Điện thoại",
         "prodPrice": 24990000,
-        "prodStaatus": "Còn hàng"
+        "prodStatus": "Còn hàng"
     },
     {
         "id": 3,
-        "prodName": "Điện thoại iphone 15",
-        "prodCategory": "Điện thoại",
-        "prodPrice": 24990000,
-        "prodStaatus": "Còn hàng"
+        "prodName": " Chuột Logitech MX Master 35",
+        "prodCategory": "Phụ kiện",
+        "prodPrice":  24900000,
+        "prodStatus": "Hết hàng"
     },
     {
         "id": 4,
         "prodName": "Điện thoại iphone 15",
         "prodCategory": "Điện thoại",
         "prodPrice": 24990000,
-        "prodStaatus": "Còn hàng"
+        "prodStatus": "Còn hàng"
     },
     {
         "id": 5,
         "prodName": "Điện thoại iphone 15",
         "prodCategory": "Điện thoại",
         "prodPrice": 24990000,
-        "prodStaatus": "Còn hàng"
+        "prodStatus": "Còn hàng"
     }
 ]
