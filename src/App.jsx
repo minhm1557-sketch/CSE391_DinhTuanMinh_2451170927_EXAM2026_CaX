@@ -1,5 +1,4 @@
-import Header from './components/Header'
-import ProductLayout from './components/ProductLayout'
+import Table from './components/ProductTable'
 import './App.css'
 
 function App() {
